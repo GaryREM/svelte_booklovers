@@ -1,0 +1,12 @@
+{
+  "apexskier.typescript.config.userPreferences.includeCompletionsForImportStatements" : true,
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "svelte"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "\/Users\/grmensz\/Documents\/MySites\/svelte_booklovers\/src\/lib\/components\/Books\/Like.svelte",
+    "\/Users\/grmensz\/Documents\/MySites\/svelte_booklovers\/src\/lib\/components\/Books\/Book.svelte",
+    "\/Users\/grmensz\/Documents\/MySites\/svelte_booklovers\/src\/routes\/(pages)\/profile\/+page.svelte",
+    "\/Users\/grmensz\/Documents\/MySites\/svelte_booklovers\/src\/routes\/(pages)\/profile\/favorites\/+page.svelte"
+  ]
+}
